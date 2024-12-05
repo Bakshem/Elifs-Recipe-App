@@ -5,6 +5,7 @@ import RecipeDetail from './pages/RecipeDetail';
 import Search from './pages/Search';
 import Navbar from './components/Navbar';
 
+
 function App() {
   return (
     <Router>
